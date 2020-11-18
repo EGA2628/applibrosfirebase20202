@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "510141962799",
+    "firebase_url": "https://applibrosfirebase20202.firebaseio.com",
+    "project_id": "applibrosfirebase20202",
+    "storage_bucket": "applibrosfirebase20202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510141962799:android:ce8291a365dbd30f0844da",
+        "android_client_info": {
+          "package_name": "com.example.applibrosfirebase20202"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510141962799-sij4bob9hofo3scu63ovmmubgjldtlvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJvEDk7tiI6IGGpPC4KFMdA1k-hrD2iqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510141962799-sij4bob9hofo3scu63ovmmubgjldtlvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
